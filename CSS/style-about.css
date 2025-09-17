@@ -1,0 +1,132 @@
+.about{
+    margin-top: 100px;
+}
+
+.about-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.about-edu{
+    /* margin-left: 200px; */
+    height: 320px;
+    width: 40%;
+    background-color: #F3ECEA;
+    border-radius: 8px;
+    color: black;
+    margin-right: 100px;
+}
+
+.about-edu:hover{
+    transform: scale(1.08);
+    background-color: #FFF4A3;
+}
+
+
+
+
+.education i{
+    font-size: 100px;
+}
+
+
+.education{
+    margin-left:200px;
+}
+
+.about-con{
+    padding: 25px;
+}
+
+.fontt{
+    margin-bottom: 12px;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+.partition{
+    margin-left: 16%;
+    width: 150px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    background-color: #F3ECEA;
+    box-shadow: #897f2c;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow:#897f2c;
+
+
+}
+
+
+.about-intro{
+    padding-left: 16%;
+    padding-top: 40px;
+    
+
+}
+
+.about-intro p{
+    margin-top: 8px;
+    font-size: larger;
+}
+
+
+.about-head{
+    width: 52%;
+}
+
+.Iconn{
+    font-size: 80px;
+    /* justify-content: center; */
+    /* align-items: center; */
+    margin-top: 32px;
+    text-align: center;
+
+}
+
+.about{
+    display: flex;
+    margin-left: 20px;
+    justify-content: space-between;
+}
+
+.about-div{
+    margin-top: 72px;
+    
+}
+
+.containerr{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.cards{
+    /* background-color: #897f2c; */
+    background-color: rgb(255, 254, 254);;
+    color: black;
+    width: 480px;
+    /* height: 340px; */
+    max-height: max-content;
+    border-radius: 4px;
+    
+}
+
+.inn{
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 24px;
+}
+

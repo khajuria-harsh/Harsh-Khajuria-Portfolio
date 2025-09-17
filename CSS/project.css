@@ -1,0 +1,35 @@
+*{
+    color: black;
+}
+
+.pmain{
+    color: aliceblue;
+}
+
+.pcontainer{
+    /* justify-content: center;
+    text-align: center;
+     */
+     padding-top: 120px;
+     display: flex;
+     gap: 50px;
+     
+}
+
+.pcard{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    /* padding-top: 200px; */
+    
+}
+
+.p{
+    
+    background-color: bisque;
+}
+
+.description{
+    margin-top: 50px;
+}
